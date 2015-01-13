@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ai.WoZhuanHuBei</string>
+				<string>com.ai.HandleMySchoolyardHoc</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>掌沃校园</string>
+				<string>掌沃湖北</string>
 			</dict>
 		</dict>
 	</array>
